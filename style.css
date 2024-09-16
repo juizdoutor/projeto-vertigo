@@ -5,7 +5,12 @@
     font-family: 'Titillium web', sans-serif;
 }
 
-header {
-    background-image: url(./imagens/bg-mobile.png);
+header{
+    background-image: url(./imagens/bg-mobile\ certo.png);
     background-size: cover;
+    height: 8.375rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
